@@ -1,0 +1,3 @@
+ServiceA,start ServiceA,stop ServiceA
+ServiceB,start ServiceB,stop ServiceB
+ServiceC,start ServiceC,stop ServiceC
